@@ -1,0 +1,16 @@
+com\yfc\my\shop\commoms\persistence\BaseEntity.class
+com\yfc\my\shop\commoms\persistence\BaseTreeEntity.class
+com\yfc\my\shop\commoms\persistence\BaseTreeService.class
+com\yfc\my\shop\commoms\dto\PageInfo.class
+com\yfc\my\shop\commoms\utils\MapperUtils.class
+com\yfc\my\shop\commoms\utils\MapperUtils$1.class
+com\yfc\my\shop\commoms\persistence\BaseTreeDao.class
+com\yfc\my\shop\commoms\utils\EmailSendUtils.class
+com\yfc\my\shop\commoms\utils\RegexConstants.class
+com\yfc\my\shop\commoms\dto\BaseResult.class
+com\yfc\my\shop\commoms\utils\HttpClientUtils.class
+com\yfc\my\shop\commoms\persistence\BaseService.class
+com\yfc\my\shop\commoms\contant\ContantUtils.class
+com\yfc\my\shop\commoms\validator\BeanValidator.class
+com\yfc\my\shop\commoms\persistence\BaseDao.class
+com\yfc\my\shop\commoms\utils\RegexUtils.class
